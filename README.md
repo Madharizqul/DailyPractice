@@ -1,0 +1,2 @@
+# DailyPractice
+Project latihan
