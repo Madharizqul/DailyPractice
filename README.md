@@ -1,2 +1,2 @@
 # DailyPractice
-Project latihan
+Project latihan saya
